@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working on **Bustix - Ticket Transport Web App**
 - 🌱 I’m learning **Flutter & PostgreSQL**
-- 📫 How to reach me: **bady.ubaidillah@gmail.com**
+- 📫 How to reach me: **badyubayidillah@gmail.com**
 
 ---
 
