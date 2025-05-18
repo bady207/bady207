@@ -31,10 +31,6 @@
 
 ---
 
-### 🐍 Snake Activity
-![snake gif](https://raw.githubusercontent.com/bady207/snk/output/github-contribution-grid-snake.svg)
-
----
 
 ### 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/nama_kamu)
