@@ -32,7 +32,7 @@
 ---
 
 ### 🐍 Snake Activity
-![snake gif](https://github.com/bady207/bady207/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/bady207/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
