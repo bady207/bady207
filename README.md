@@ -1,37 +1,63 @@
-<h1 align="center">Hi 👋, I'm Bady Ubaidillah</h1>
+<h1 align="center">🚀 Hi, I'm CRAZY DEVELOPER</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=440&lines=Laravel+Developer;Flutter+Learner;Loves+Open+Source" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Laravel+Developer;Flutter+Enthusiast;Open+Source+Lover;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code-Passionate-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active-orange?style=for-the-badge" />
 </p>
 
 ---
 
-### 👨‍💻 About Me:
-- 🔭 I’m currently working on **Bustix - Ticket Transport Web App**
-- 🌱 I’m learning **Flutter & PostgreSQL**
-- 📫 How to reach me: **badyubayidillah@gmail.com**
+## 👨‍💻 About Me
+- 🔭 Currently building **Bustix - Ticket Transport Web App**
+- 🌱 Learning **Flutter & PostgreSQL**
+- ⚡ Fun fact: I love building things that actually solve real problems
+- 📫 Reach me at: **badyubayidillah@gmail.com**
 
 ---
 
-### 🛠️ Languages and Tools:
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-
----
-
-### 📊 GitHub Stats:
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bady207&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bady207&layout=compact&theme=tokyonight" alt="languages"/>
+  <img src="https://skillicons.dev/icons?i=laravel,php,flutter,dart,mysql,git,github,vscode" />
 </p>
 
 ---
 
+## 📊 GitHub Stats
 
-### 🤝 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/nama_kamu)
-[![Instagram](https://img.shields.io/badge/-Instagram-red?logo=instagram&logoColor=white)](https://instagram.com/nama_kamu)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bady207&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bady207&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bady207&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/nama_kamu">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/nama_kamu">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ "Code. Create. Innovate. Repeat." ⚡
+</p>
